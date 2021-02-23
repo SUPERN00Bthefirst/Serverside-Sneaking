@@ -1,4 +1,4 @@
-![Project icon](https://github.com/SUPERN00Bthefirst/Serverside-Sneaking/raw/main/src/main/assets/serversidesneaking/icon.png)
+![Project icon](https://github.com/SUPERN00Bthefirst/Serverside-Sneaking/raw/main/src/main/resources/assets/serversidesneaking/icon.png)
 <br>
 # Serverside Sneaking Fix
 ![GitHub license](https://img.shields.io/github/license/SUPERN00Bthefirst/Serverside-Sneaking.svg)
