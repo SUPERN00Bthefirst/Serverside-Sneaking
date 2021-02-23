@@ -1,0 +1,21 @@
+{
+	"authors": [
+		"SUPERN00Bthe1",
+		"bytzo"
+	],
+	"name": "Serverside Sneaking Fix",
+	"description": "A fork of a Minecraft Fabric mod to fix MC-202202 and bring back support for serverside sneaking to minecraft 1.16.",
+	"icon": "assets/serversidesneaking/icon.png",
+	"schemaVersion": 1,
+	"id": "serversidesneaking",
+	"version": "0.1.0",
+	"environment": "client",
+	"mixins": [
+		"serversidesneaking.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.7.2",
+		"minecraft": ">=1.16-alpha.20.22.a <1.17-alpha.21.03.a"
+	},
+	"license": "MIT"
+}
