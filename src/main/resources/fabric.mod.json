@@ -8,14 +8,14 @@
 	"icon": "assets/serversidesneaking/icon.png",
 	"schemaVersion": 1,
 	"id": "serversidesneaking",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"environment": "client",
 	"mixins": [
 		"serversidesneaking.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.7.2",
-		"minecraft": ">=1.16-alpha.20.22.a <1.17-alpha.21.03.a"
+		"minecraft": ">=1.16-alpha.20.09.a <1.17-alpha.21.03.a"
 	},
 	"license": "MIT"
 }

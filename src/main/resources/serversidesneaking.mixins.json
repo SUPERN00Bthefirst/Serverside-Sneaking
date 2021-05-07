@@ -1,7 +1,6 @@
 {
 	"package": "net.bytzo.serversidesneaking.client.mixin",
 	"client": [
-		"ClientPacketListenerMixin",
 		"PlayerMixin"
 	]
 }
